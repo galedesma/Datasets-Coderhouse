@@ -8,3 +8,5 @@ Los datasets cargados hasta el momento son:
 - ["Monkeypox" por RYANJT](https://www.kaggle.com/datasets/ryanjt/monkeypox)
 
 - ["Hotel booking demand" por JESSE MOSTIPAK](https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand)
+
+- ["Australian Fatal Road Accident 1989-2021" por DEEP CONTRACTOR](https://www.kaggle.com/datasets/deepcontractor/australian-fatal-car-accident-data-19892021)
